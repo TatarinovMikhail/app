@@ -3,7 +3,6 @@
 }
 
 html, body {
-    margin: 0;
     padding: 0;
     height: 100%;
 }
@@ -27,6 +26,3 @@ a {
     color: #ff0303;
 }
 
-a:hover {
-    text-decoration: underline;
-}
